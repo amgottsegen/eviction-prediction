@@ -1,0 +1,9 @@
+*.csv
+*.zip
+*.xlsx
+*.geojson
+*.shp
+parcel_level/evictions/tenant-addresses-cleaned.txt
+*.dbf
+parcel_level/evictions/summary-table.txt
+
